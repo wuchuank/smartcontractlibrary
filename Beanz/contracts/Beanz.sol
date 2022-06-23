@@ -2,12 +2,12 @@
 pragma solidity ^0.8.4;
 
 import "./MultisigOwnable.sol";
-import "erc721a/contracts/ERC721A.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/utils/Address.sol";
-import "@chainlink/contracts/src/v0.8/interfaces/LinkTokenInterface.sol";
-import "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol";
-import "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol";
+import "../erc721a/contracts/ERC721A.sol";
+import "../@openzeppelin/contracts/access/Ownable.sol";
+import "../@openzeppelin/contracts/utils/Address.sol";
+import "../@chainlink/contracts/src/v0.8/interfaces/LinkTokenInterface.sol";
+import "../@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol";
+import "../@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol";
 
 error BeanCannotBeClaimed();
 error ClaimWindowNotOpen();
