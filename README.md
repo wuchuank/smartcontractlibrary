@@ -1,2 +1,5 @@
 # Library of Smart Contracts
- Collection of smart contracts I find that I can learn from
+
+ This repo consists of smart contracts that I feel that I can learn something from, be it gas optimisations, security practices or mistakes in the contracts
+
+These contracts are extracted from etherscan using a simple tool I developed called [ethersource](https://github.com/wuchuank/ethersource)
