@@ -4,4 +4,4 @@
 
 These contracts are extracted from etherscan using foundry's command line tool cast, more specifically cast etherscan-source.
 
-More information can be found on the [foundry book](book.getfoundry.sh/reference/cast/cast-etherscan-source.html)
+More information can be found on the [foundry book](https://book.getfoundry.sh/reference/cast/)
